@@ -10,7 +10,9 @@ class MainActivity : AppCompatActivity()
     {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.e("MainActivityScreen ","TestChangjjhjhe")
+        Log.e("MainActivityScreen ","TestChangeeeee")
+        Log.e("Test ","TestChange")
+
     }
 
     /* git config --global user.email "you@example.com"
